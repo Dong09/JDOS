@@ -1,9 +1,11 @@
+# JDOS
+
+### 主要文件为 test 文件夹下的内容，必要的文件为以下文件。
+
+> 需要工具：bochs gcc nasm ld
+
+
 ```
-"# JDOS" 
-
-需要工具：bochs gcc nasm ld
-主要文件为 test 文件夹下的内容，必要的文件为以下文件。
-
 ########### 目录结构描述
 test  
 ├── boot  
