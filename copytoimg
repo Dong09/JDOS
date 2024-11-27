@@ -1,0 +1,5 @@
+sudo mount -o loop pm.img /mnt/floppy
+
+sudo cp pmtest0.com /mnt/floppy
+
+sudo umount /mnt/floppy
